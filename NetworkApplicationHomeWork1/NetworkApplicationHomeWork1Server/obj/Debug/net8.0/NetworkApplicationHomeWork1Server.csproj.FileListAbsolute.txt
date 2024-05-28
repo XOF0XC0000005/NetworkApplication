@@ -1,0 +1,14 @@
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\bin\Debug\net8.0\NetworkApplicationHomeWork1Server.exe
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\bin\Debug\net8.0\NetworkApplicationHomeWork1Server.deps.json
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\bin\Debug\net8.0\NetworkApplicationHomeWork1Server.runtimeconfig.json
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\bin\Debug\net8.0\NetworkApplicationHomeWork1Server.dll
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\bin\Debug\net8.0\NetworkApplicationHomeWork1Server.pdb
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\obj\Debug\net8.0\NetworkApplicationHomeWork1Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\obj\Debug\net8.0\NetworkApplicationHomeWork1Server.AssemblyInfoInputs.cache
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\obj\Debug\net8.0\NetworkApplicationHomeWork1Server.AssemblyInfo.cs
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\obj\Debug\net8.0\NetworkApplicationHomeWork1Server.csproj.CoreCompileInputs.cache
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\obj\Debug\net8.0\NetworkApplicationHomeWork1Server.dll
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\obj\Debug\net8.0\refint\NetworkApplicationHomeWork1Server.dll
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\obj\Debug\net8.0\NetworkApplicationHomeWork1Server.pdb
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\obj\Debug\net8.0\NetworkApplicationHomeWork1Server.genruntimeconfig.cache
+C:\projects\c#_projects\NetworkApplicationHomeWork1Server\obj\Debug\net8.0\ref\NetworkApplicationHomeWork1Server.dll
