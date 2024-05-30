@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NetworkApplicationHomeWork1Client/1.0.0": {
+        "dependencies": {
+          "NetworkApplicationHomeWork1Server": "1.0.0"
+        },
+        "runtime": {
+          "NetworkApplicationHomeWork1Client.dll": {}
+        }
+      },
+      "NetworkApplicationHomeWork1Server/1.0.0": {
+        "runtime": {
+          "NetworkApplicationHomeWork1Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetworkApplicationHomeWork1Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkApplicationHomeWork1Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
