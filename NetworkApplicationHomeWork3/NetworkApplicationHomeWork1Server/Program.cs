@@ -1,4 +1,4 @@
-﻿using System.Net.Sockets;
+using System.Net.Sockets;
 using System.Net;
 using System.Text;
 using System.Diagnostics;
@@ -26,20 +26,16 @@ namespace NetworkApplicationHomeWork1Server
 
                 while (true)
                 {
-                    Task task = new Task(() =>
+                    new Task(() =>
                     {
                         if (Console.ReadKey().Key == ConsoleKey.Escape) cts.Cancel();
 
                         if (token.IsCancellationRequested)
                         {
-                            Console.WriteLine("Сервер закрывается");
                             cts.Dispose();
                             Process.GetCurrentProcess().Kill();
                         }
-
-                    }, token);
-
-                    task.Start();
+                    }, token).Start();
 
                     byte[] buffer = udpClient.Receive(ref ipEndpoint);
 
