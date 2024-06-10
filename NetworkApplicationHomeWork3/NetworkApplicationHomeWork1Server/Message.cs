@@ -4,6 +4,7 @@ namespace NetworkApplicationHomeWork1Server
 {
     public class Message
     {
+        public Commands Command { get; set; }
         public string? Text { get; set; }
         public DateTime DateTime { get; set; }
         public string? NickFrom { get; set; }
