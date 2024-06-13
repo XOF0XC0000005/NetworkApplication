@@ -6,6 +6,7 @@ namespace NetworkApplicationHomeWork1Server
     {
         public Commands Command { get; set; }
         public string? Text { get; set; }
+        public bool IsSent { get; set; }
         public DateTime DateTime { get; set; }
         public string? NickFrom { get; set; }
         public string? NickTo { get; set; }

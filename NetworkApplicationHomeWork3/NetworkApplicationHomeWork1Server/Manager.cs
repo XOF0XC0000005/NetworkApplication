@@ -26,7 +26,6 @@ namespace NetworkApplicationHomeWork1Server
                     Send(message);
                     break;
             }
-
             return TypeSend.Default;
         }
 
